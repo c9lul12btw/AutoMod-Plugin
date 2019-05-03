@@ -1,0 +1,10 @@
+name: AutoMod
+version: 1.0
+description: Gay
+author: Mirass
+main: io.github.c9lul12btw.Main
+
+commands:
+  automod:
+    description: 'Main AutoMod command'
+    usage: '/<command>'

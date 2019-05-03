@@ -1,0 +1,14 @@
+# Automod Configuration File
+# Authors: Mirass and Robnoo02
+#
+# Permissions:
+# automod.reload
+#
+# Automod removes the player's
+# message and sends them the phrase.
+# # # # # # # # # # # # # # # # # #
+
+data:
+  'word1,word2,word3': 'Phrase to message player'
+  'word1,word2,word3': 'Phrase to message player'
+  'word1,word2,word3': 'Phrase to message player'
